@@ -1,6 +1,6 @@
 # Tailwind CSS Course
 
-This is the repository for the Tailwind CSS course.
+This is the repository for the Tailwind CSS course codes.
 
 ## Course Link
 ### Udemy
